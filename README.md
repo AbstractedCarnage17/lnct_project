@@ -1,1 +1,0 @@
-# lnct_project
